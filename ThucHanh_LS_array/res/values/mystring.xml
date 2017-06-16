@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="myarr">
+        <item >Pham Ngoc Trung</item>
+        <item >Pham Ngoc Tuan</item>
+        <item >Tran Ngoc Tho</item>
+    </string-array>
+    
+</resources>
